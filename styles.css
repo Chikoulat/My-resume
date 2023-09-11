@@ -82,6 +82,10 @@ a:hover {
   margin: 40px auto 60px;
 }
 
+.contact-image{
+    margin-bottom: 50px;
+}
+
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
